@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/LookUpEdit/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/LookUpEdit/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/LookUpEdit/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/LookUpEdit/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to use the grid control in the popup window of the LookUpEdit editor
 
 
